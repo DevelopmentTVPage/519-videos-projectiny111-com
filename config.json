@@ -1,0 +1,15 @@
+{
+    "title": "Proyectiny111",
+    "baseURL": "https:\/\/videos.projectiny111.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758904",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "projectiny111.com"
+    }
+}
