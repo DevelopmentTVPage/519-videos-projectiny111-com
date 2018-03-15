@@ -10,6 +10,11 @@
         "loginId": "1758904",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "projectiny111.com"
+        "cookiedomain": "projectiny111.com",
+        "player": {
+            "playback": {
+                "autoplay": true
+            }
+        }
     }
 }
