@@ -12,8 +12,37 @@
         "firstpartycookies": true,
         "cookiedomain": "projectiny111.com",
         "player": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "videos.projectinya.com"
+            },
             "playback": {
-                "autoplay": true
+                "autoplay": false
+            }
+        },
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "videos.projectinya.com"
+            },
+            "playback": {
+                "autoplay": false
             }
         }
     }
