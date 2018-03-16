@@ -13,8 +13,7 @@
         "cookiedomain": "projectiny111.com",
         "player": {
             "playback": {
-                "autoplay": true,
-                "autonext": true
+                "autoplay": true
             }
         }
     }
